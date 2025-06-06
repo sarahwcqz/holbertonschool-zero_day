@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #1/bin/bash
 echo "Best"
+=======
+#!/bin/bash
+echo "Best School"
+>>>>>>> origin/update_script
